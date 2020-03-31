@@ -1,5 +1,5 @@
 import React from 'react'
-import './components/Contact.css'
+import './Contact.css'
 
 const name = 'Ratata Gonzales'
 const avatar = 'https://randomuser.me/api/portraits/lego/6.jpg'
